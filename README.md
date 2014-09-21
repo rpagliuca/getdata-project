@@ -6,5 +6,6 @@ To generate the tidy dataset:
 
 3) Run the script run_analysis.R from the root of your R project
 
-A file called tidydataset.txt will be generated.
+A file called tidydataset.txt will be generated, containing a summary of the data of the original datasets.
+
 More information about that file can be found on CodeBook.md.
